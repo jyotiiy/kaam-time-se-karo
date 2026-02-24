@@ -13,7 +13,7 @@ body{
     border: none;
     border-radius: 15px;
     background-color: aqua;
-    height: 50vh;
+    height: auto;
     width: 25vw;
     box-shadow: 4px 5px 6px;
 }
